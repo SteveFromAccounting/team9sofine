@@ -1,3 +1,6 @@
+/**
+ * By Jordan
+ */
 var gulp = require('gulp');
 var angularTemplateCache = require('gulp-angular-templatecache');
 var autoprefixer = require('gulp-autoprefixer');
